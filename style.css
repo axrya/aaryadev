@@ -223,6 +223,18 @@ background-size: fill;
   background-image: url('img/Marketing.png');
 }
 
+#card11{
+  background-image: url('img/Python.png');
+}
+
+#card12{
+  background-image: url('img/mysql.png');
+}
+
+#card13{
+  background-image: url('img/tailwindcss.svg');
+}
+
 .fa {
   padding: 20px;
   font-size: 30px;
